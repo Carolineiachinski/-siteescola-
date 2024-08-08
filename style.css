@@ -1,3 +1,35 @@
 .cabeçalho{background-color: violet;color: #000; display: flex; justify-content: space-around;}
 .imagem-logo{width:20%;}
 .cabeçalho-lista-item{display:inline-block; margin:0 16px ; font-size:20px;} 
+.cabeçalho-lista-item {display:insine-block;}
+
+.tópicos { 
+    background: violet;
+    text-align: center;
+    padding: 1em 0;
+}
+.tópicos-títulos {
+    color: cornflowerblue;
+    font-weight: 300;
+    margin-bottom: 1em;
+}
+
+.tópicos-lista {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.tópicos-item {
+    marging: 2em 0.5em;
+    list-style: none;
+}
+
+.tópicos-link {
+    color: aquamarine;
+    padding: 1em;
+    background-color: aquamarine;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: 700;
+}
