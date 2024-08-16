@@ -51,4 +51,8 @@
     marging: 1em 0;
 }
 
-.banner_
+.banner_pesquisa {
+    background-color: cyan;
+    border: 1px solid;
+    color: blanchedalmond;
+}
